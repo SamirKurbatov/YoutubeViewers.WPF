@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YoutubeViewers.WPF", "YoutubeViewers.WPF\YoutubeViewers.WPF.csproj", "{1ED2DC2E-0920-40FB-92AA-964079B56035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeViewers.EntityFramework", "YouTubeViewersEntityFramework\YouTubeViewers.EntityFramework.csproj", "{A7A6AAC1-C2F2-41F7-B793-31589E489FD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeViewers.Domain", "YouTubeViewers.Domain\YouTubeViewers.Domain.csproj", "{E8A52EBD-D6C3-4C7D-90CA-8C0BCD59A214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED2DC2E-0920-40FB-92AA-964079B56035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED2DC2E-0920-40FB-92AA-964079B56035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED2DC2E-0920-40FB-92AA-964079B56035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED2DC2E-0920-40FB-92AA-964079B56035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A6AAC1-C2F2-41F7-B793-31589E489FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A6AAC1-C2F2-41F7-B793-31589E489FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A6AAC1-C2F2-41F7-B793-31589E489FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A6AAC1-C2F2-41F7-B793-31589E489FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8A52EBD-D6C3-4C7D-90CA-8C0BCD59A214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A52EBD-D6C3-4C7D-90CA-8C0BCD59A214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A52EBD-D6C3-4C7D-90CA-8C0BCD59A214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A52EBD-D6C3-4C7D-90CA-8C0BCD59A214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85FA73A8-0A09-41A6-94C5-DF42DB24E215}
+	EndGlobalSection
+EndGlobal
